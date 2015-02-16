@@ -79,6 +79,9 @@
             <hr />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - Katalyti Digital Pvt Ltd.</p>
+				I am going to make some changes here and commit to git. Seems you cannot hear me so keep watching.
+				Once you have made changes to your code files, save them in visual studio. You can then commit these file in git.
+				After commit, you MUST PUSH them in order to upload to server.
             </footer>
         </div>
     </form>
